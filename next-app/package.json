@@ -1,0 +1,28 @@
+{
+  "name": "next-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@next/font": "13.1.1",
+    "eslint": "8.31.0",
+    "eslint-config-next": "13.1.1",
+    "next": "13.1.1",
+    "react": "18.2.0",
+    "evergreen-ui": "^6.10.3",
+    "prop-types": "^15.8.1",
+    "react-dom": "18.2.0",
+    "styled-components": "^5.3.6"
+  },
+  "prettier": {
+    "singleQuote": true,
+    "trailingComma": "all",
+    "semi": false,
+    "tabWidth": 2
+  }
+}
